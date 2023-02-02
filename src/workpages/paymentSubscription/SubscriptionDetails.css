@@ -1,0 +1,77 @@
+.font {
+    font-family: 'Inter';
+    font-style: normal;
+}
+
+.div1 {
+    width: 534px;
+    height: 92.73px;
+}
+
+.div1>h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    color: #3990B5;
+}
+
+.div1>p
+ {
+    width: 423.15px;
+    height: 47px;
+    font-weight: 400;
+    font-size: 13.95px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.div2 {
+    width: 534.71px;
+    height: 45px;
+}
+
+.div2>h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #020246;
+}
+
+.div3 {
+    width: 534px;
+    height: 288px;
+}
+
+.div3>tr,td{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #101828;
+    margin: 0px;
+    height: 20px;
+}
+.total {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16.2571px;
+    color: #09101c;
+}
+
+.div4 {
+    width: 527px;
+    height:110px
+}
+
+.div4>span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13.7892px;
+    color: #101828;
+
+}
