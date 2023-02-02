@@ -1,0 +1,72 @@
+.font{
+font-family: 'Inter';
+font-style: normal;
+}
+.block1{
+    width: 527px;
+    height: 92.73px;
+}
+.block1>h1{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 26.35px;
+text-align: center;
+color: #3990B5;
+}
+.block1>p,p{
+    width: 423.15px;
+    height: 47px;
+    font-weight: 400;
+    font-size: 13.95px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+}
+.block2{
+    width: 534.71px;
+    height: 122px;
+    margin-top: 186px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.block2>.Row{
+width: 120px;
+height: 120px;
+left: calc(50% - 120px/2 - 0.36px);
+top: calc(50% - 120px/2 + 0.28px);
+background: #26A212;
+border-radius: 60px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.block3{
+    width: 527px;
+    height: 92.73px;
+}
+.block3>h1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+text-align: center;
+color: #020246;
+}
+.block4{
+    width: 527px;
+    height: 92.73px;
+    margin-bottom: 55px;
+}
+.block4>span{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13.78px;
+    color: #101828;
+    
+}

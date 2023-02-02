@@ -1,0 +1,29 @@
+.page{
+    width: 1512px;
+    height: 1025px;  
+    background: #FFFFFF;
+}
+.sidebar{
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: #2E2E48;
+height: 1025px;
+width: 300px;
+border-radius: 0px;
+border: 1px solid blue;
+
+}
+.NavMain{
+    width: 1218px;
+    height:100px;
+    border: 1px solid blue;
+}
+.main{
+    margin: 28px;
+    width: 1162px;
+    height:869px;
+    background-color: bisque;
+    border: 1px solid black;
+}
