@@ -8,16 +8,17 @@ const PaymentSuccess = () => {
 
     return (
         <Container className='w-100 font mx-auto my-5 py-5'>
-            <Row className='block1  mb-3 mx-auto'>
+            <Row className='block1  mb-3 pb-2 mx-auto'>
                 <h1>Yes, your subscription has been made!</h1>
                 <p className='mx-auto'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
             </Row>
             <Card 
                 body
-                className="text-center mx-auto shadow-lg rounded-3 border-0"
+                className="text-center mx-auto shadow-lg rounded-3 border-0 bg-white"
                 style={{
                     width: '596px',
                     height: '570px'
+                   
                 }}
             >
                 <Row className='block2 mx-auto mt-5 mx-auto'>
